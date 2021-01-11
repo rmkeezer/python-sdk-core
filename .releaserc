@@ -1,7 +1,7 @@
 {
   "debug": true,
   "branches": [ 
-    {"name": "master"}, 
+    {"name": "master",      "range": "3.x.x"}, 
     {"name": "release_0.x", "range": "0.x.x"}
   ],
   "plugins": [
